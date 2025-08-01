@@ -7028,12 +7028,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"expo-location@npm:~18.0.7":
-  version: 18.0.10
-  resolution: "expo-location@npm:18.0.10"
+"expo-location@npm:~18.1.6":
+  version: 18.1.6
+  resolution: "expo-location@npm:18.1.6"
   peerDependencies:
     expo: "*"
-  checksum: 10c0/d372f42b0ccca55dd39125539ec347db753b236f26d23eeb6630f099d3bcc6604436a37eadd76ad421366ee956b9815948a72c1c0622c336f66dfa0022f87dbc
+  checksum: 10c0/94ae7ae5ca144f2cd327fc26f76355783e81b5454b6328a5d127511251e1b09ff04e70084f314dff825a91211338fb801434c6680af2901539ceb11c949af8d9
   languageName: node
   linkType: hard
 
@@ -9277,7 +9277,7 @@ __metadata:
     expo-device: "npm:~7.0.2"
     expo-image-picker: "npm:~16.0.6"
     expo-linking: "npm:~7.0.5"
-    expo-location: "npm:~18.0.7"
+    expo-location: "npm:~18.1.6"
     expo-notifications: "npm:~0.29.14"
     expo-splash-screen: "npm:~0.29.22"
     expo-status-bar: "npm:~2.0.1"
